@@ -13,11 +13,11 @@ You can follow up my resume and know more about my work [here](https://hpiaia.de
 
 Talk to me about
 
-- Front-end development using **React, Redux and Styled Components**
-- Backend development using **Node, Typescript and Nest**
-- Robust full-stack system design implementation
-- Mobile application development using **React native**
-- Creating scalable cloud architecture using **Azure and AWS**
+- Front-end development using **React, Redux and Styled Components**;
+- Backend development using **Node, Typescript and Nest**;
+- Robust full-stack system design implementation;
+- Mobile application development using **React native**;
+- Creating scalable cloud architecture using **Azure and AWS**;
 
 ## Hello World!! 🤔
 
