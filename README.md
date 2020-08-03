@@ -22,6 +22,6 @@ Talk to me about
 ## Hello World 🤔
 
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Humberto's Blog](https://hpiaia.dev)
-- 🎯 Know my projects: [Portfolio](https://hpiaia.dev/projects)
+- 📫 Read my blogs: [Humberto's Blog](https://hpiaia.dev).
+- 🎯 Know my projects: [Portfolio](https://hpiaia.dev/projects).
 - ⚡ Fun fact: Internet users blink less than usual.
