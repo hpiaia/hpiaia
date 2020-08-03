@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -7,7 +7,7 @@
 
 I am Humberto Piaia 😃. I am from SC, Brazil. I am a full stack developer – and a UI/UX enthusiast – with advanced knowledge of **JavaScript**, **C#** and **PHP**, as well as extensive and great experience with **React**, **Vue**, **Node**, **.NET** and **Laravel**. I am a proactive and dedicated person who enjoys creating beautifully designed, intuitive and functional websites
 
-You can follow up my resume and know more about my jobs [here](https://hpiaia.dev/resume.pdf "here").
+You can follow up my resume and know more about my work [here](https://hpiaia.dev/resume.pdf "here").
 
 ## ⚡ Technologies
 
