@@ -13,8 +13,8 @@ You can follow up my resume and know more about my work [here](https://hpiaia.de
 
 I am currently working with:
 
-- 🌐 Front-end development using **React, Redux and Styled Components**;
-- 📦 Backend development using **Node, TypeScript and NestJS**;
+- 🌐 Front end development using **React, Redux and Styled Components**;
+- 📦 Back end development using **Node, TypeScript and NestJS**;
 - 📱 Mobile application development using **React Native**;
 - ☁️ Cloud architecture using **Azure and AWS**;
 
