@@ -11,17 +11,14 @@ You can follow up my resume and know more about my work [here](https://hpiaia.de
 
 ## ⚡ Technologies
 
-Talk to me about
+I am currently working with:
 
-- Front-end development using **React, Redux and Styled Components**;
-- Backend development using **Node, Typescript and Nest**;
-- Robust full-stack system design implementation;
-- Mobile application development using **React native**;
-- Creating scalable cloud architecture using **Azure and AWS**;
+- 🌐 Front-end development using **React, Redux and Styled Components**;
+- 📦 Backend development using **Node, TypeScript and NestJS**;
+- 📱 Mobile application development using **React Native**;
+- ☁️ Cloud architecture using **Azure and AWS**;
 
-## Hello World 🤔
+## 😄 Know more about me
 
-- 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Humberto's Blog](https://hpiaia.dev).
 - 🎯 Know my projects: [Portfolio](https://hpiaia.dev/projects).
-- ⚡ Fun fact: Internet users blink less than usual.
