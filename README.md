@@ -17,11 +17,11 @@ I am currently working with:
 - 🌐 Front end development using **React**;
 - 📦 Back end development using **Node and NestJS**;
 - 📱 Mobile application development using **React Native**;
-- ☁️ Cloud architecture using **Azure and AWS**.
+- ☁️ Cloud architecture using **Azure and AWS**;
 
 ## 😄 Know more about me
 
 - 📫 Read my [posts](https://hpiaia.dev/blog);
-- 🎯 Know my [projects](https://hpiaia.dev/projects).
+- 🎯 Know my [projects](https://hpiaia.dev/projects);
 
 Thank you for your time! 
