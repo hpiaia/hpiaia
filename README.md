@@ -13,15 +13,15 @@ You can follow up my resume and know more about my work [here](https://hpiaia.de
 
 I am currently working with:
 
-- 🖊 Main languages are **C#** and **TypeScript**;
-- 📦 Back end development using **.NET Core** and **Node**;
-- 🌐 Front end development using **React** and **Vue**;
-- 📱 Mobile development using **React Native**;
-- ☁️ Cloud architecture using **Azure** and **AWS**;
+- 🖊 — Main languages are **C#** and **TypeScript**;
+- 📦 — Back end development using **.NET Core** and **Node**;
+- 🌐 — Front end development using **React** and **Vue**;
+- 📱 — Mobile development using **React Native**;
+- ☁️ — Cloud architecture using **Azure** and **AWS**;
 
 ## 😄 Know more about me
 
-- 📫 Read my [posts](https://hpiaia.dev/blog);
-- 🎯 Know my [projects](https://hpiaia.dev/projects);
+- 📫 — Read my [posts](https://hpiaia.dev/blog);
+- 🎯 — Know my [projects](https://hpiaia.dev/projects);
 
 Thank you for your time! 
