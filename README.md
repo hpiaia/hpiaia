@@ -15,7 +15,7 @@ I am currently working with:
 
 - 🖊 Main languages are **C#** and **TypeScript**;
 - 📦 Back end development using **.NET Core** and **Node**;
-- 🌐 Front end development using **React**;
+- 🌐 Front end development using **React** and **Vue**;
 - 📱 Mobile development using **React Native**;
 - ☁️ Cloud architecture using **Azure** and **AWS**;
 
