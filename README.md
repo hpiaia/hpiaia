@@ -17,7 +17,7 @@ I am currently working with:
 - 📦 — Back end development using **.NET Core** and **Node**;
 - 🌐 — Front end development using **React** and **Vue**;
 - 📱 — Mobile development using **React Native**;
-- ☁️ — Cloud architecture using **Azure** and **AWS**;
+- ☁️ — Cloud architecture using **Azure**, **AWS** and **Terraform**;
 
 ## 😄 Know more about me
 
