@@ -13,11 +13,11 @@ You can follow up my resume and know more about my work [here](https://hpiaia.de
 
 I am currently working with:
 
-- 🖊 — Main languages are **C#** and **TypeScript**;
-- 📦 — Back end development using **.NET Core** and **Node**;
+- 🖊 — Main languages are **C#**, **JavaScript** and **PHP**;
+- 📦 — Back end development using **.NET Core**, **Node** and **Laravel**;
 - 🌐 — Front end development using **React** and **Vue**;
 - 📱 — Mobile development using **React Native**;
-- ☁️ — Cloud architecture using **Azure**, **AWS** and **Terraform**;
+- ☁️ — Cloud architecture using **Azure**, **AWS** and **DigitalOcean**;
 
 ## 😄 Know more about me
 
