@@ -7,7 +7,7 @@
 
 My name is Humberto Piaia 😃. I am a full stack developer – and a devops engineer – with advanced knowledge of **JavaScript**, **C#** and **PHP**, as well as extensive and great experience with **React**, **Vue**, **Node**, **.NET** and **Laravel**. I am a proactive and dedicated person who enjoys creating beautifully designed, intuitive and functional websites.
 
-You can follow up my resume and know more about my work [here](https://hpiaia.dev/resume.pdf "here").
+You can follow up my resume and know more about my work at [my website](https://hpiaia.dev/).
 
 ## ⚡ Technologies
 
@@ -18,10 +18,3 @@ I am currently working with:
 - 🌐 — Front end development using **React** and **Vue**;
 - 📱 — Mobile development using **React Native**;
 - ☁️ — Cloud architecture using **Azure**, **AWS** and **DigitalOcean**;
-
-## 😄 Know more about me
-
-- 📫 — Read my [posts](https://hpiaia.dev/blog);
-- 🎯 — Know my [projects](https://hpiaia.dev/projects);
-
-Thank you for your time! 
