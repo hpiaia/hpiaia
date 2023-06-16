@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hpiaia-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/hpiaia)](https://linkedin.com/in/hpiaiadev) [![Twitter Badge](https://img.shields.io/badge/-@hpiaiadev-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/hpiaiadev)](https://twitter.com/hpiaiadev)
 [![Mail Badge](https://img.shields.io/badge/-betopiaia@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white&link=mailto:hi@hpiaia.dev)](mailto:betopiaia@gmail.com)
 
-My name is Humberto Piaia. I am a full stack developer – and a devops engineer – with advanced knowledge of **TypeScript**, **PHP** and **C#** as well as extensive and great experience with **Node**, **React**, **Svelte**. I am a proactive and dedicated person who enjoys creating beautifully designed, intuitive and functional websites and applications.
+I am a full stack engineer with advanced knowledge of TypeScript and PHP, as well as extensive and great experience with React and Node.
+For the past year, I have also been learning Golang and Rust.
 
 You can follow up my resume and know more about my work at [my website](https://hpiaia.dev/) 📺.
 
