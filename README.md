@@ -4,7 +4,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/hpiaia.dev-8A2BE2)](https://hpiaia.dev) [![Linkedin Badge](https://img.shields.io/badge/-hpiaia-0077B5?labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/hpiaia)](https://linkedin.com/in/hpiaiadev) [![Twitter Badge](https://img.shields.io/badge/-@hpiaiadev-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/hpiaiadev)
+[![Website](https://img.shields.io/badge/hpiaia.dev-8A2BE2)](https://hpiaia.dev) [![Linkedin Badge](https://img.shields.io/badge/-hpiaia-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hpiaiadev) [![Twitter Badge](https://img.shields.io/badge/-@hpiaiadev-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/hpiaiadev)
 [![Mail Badge](https://img.shields.io/badge/-betopiaia@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:betopiaia@gmail.com)
 
 I am a full stack engineer with advanced knowledge of TypeScript and PHP, as well as extensive and great experience with React and Node.
